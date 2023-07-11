@@ -50,7 +50,7 @@ To run the project locally, follow these steps:
 2. Navigate to the project directory: `cd project_directory`
 3. Install dependencies: `mvn install`
 4. Run the application: `mvn spring-boot:run`
-5. Access the application in a web browser: `http://localhost:8080`
+5. Access the application in a web browser: `http://localhost:8080/students`
 
 ## Actual Tree
 
