@@ -40,7 +40,7 @@ Before running the project, make sure to set the following environment variables
 
 To start a new project with the same configuration and dependencies, you can use Spring Initializr. Follow the link below:
 
-[Spring Initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.7.13&packaging=war&jvmVersion=11&groupId=com.ccc&artifactId=student&name=student&description=Student%20Management%20Application&packageName=com.ccc.student&dependencies=web,data-jpa,thymeleaf,devtools)
+[Spring Initializr](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.7.13&packaging=war&jvmVersion=17&groupId=com.ccc&artifactId=student&name=student&description=Student%20Management%20Application&packageName=com.ccc.student&dependencies=web,data-jpa,thymeleaf,devtools)
 
 ## Getting Started with the Project
 
